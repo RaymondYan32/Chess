@@ -7,7 +7,7 @@ Currently everything should be functioning except for the ability for:
 - castle
 - and en passe 
 
-Therefore other functions such as proper turn based movement of a pieces, removal of pieces, and check/checkmate should be working properly
+Other functions such as proper turn based movement of a pieces, removal of pieces, and check/checkmate should be working properly
 
 
 To use:
