@@ -15,3 +15,5 @@ To use:
 1. Download and unzip to location of your choosing
 2. Open folder and run "chess.jar"
 3. Enjoy with a friend
+
+P.S. As currently this program does not use any external images files, chess.jar should be able to run by itself without being with the source code folder
