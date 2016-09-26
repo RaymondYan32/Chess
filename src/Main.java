@@ -1,9 +1,9 @@
 
 /***********************************************
  * Name: Chess
- * Author: Raymond
- * Date: April 23, 2016 - 
- * Description: A simple program of Chess as something to do for my first week of Summer of 2016
+ * Author: Raymond Yan
+ * Date: August 21, 2016 - 
+ * Description: A simple program of Chess as something to do for my last couple weeks of Summer of 2016
  ************************************************/
 
 import java.awt.Color;
